@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joseph-k-mcdonald/somedirectory)
+  - [Active Directory Home Lab](https://github.com/joseph-k-mcdonald/ActiveDirectoryHomeLab)
   - [Hello World](https://github.com/joseph-k-mcdonald/anotherdirectory)
 
 <h2>:hammer: Currently Working On:</h2>
