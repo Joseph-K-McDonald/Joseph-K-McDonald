@@ -1,7 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Joseph! <br/>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Active Directory Home Lab](https://github.com/joseph-k-mcdonald/somedirectory)
+  - [Hello World](https://github.com/joseph-k-mcdonald/anotherdirectory)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JosephMcDonald | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/joseph-mcdonald-85b51b360
 
 <!--
-**Joseph-K-McDonald/Joseph-K-McDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
