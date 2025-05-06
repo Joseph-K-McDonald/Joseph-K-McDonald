@@ -6,6 +6,13 @@
   - [Active Directory Home Lab](https://github.com/joseph-k-mcdonald/somedirectory)
   - [Hello World](https://github.com/joseph-k-mcdonald/anotherdirectory)
 
+<h2>:hammer: Currently Working On:</h2>
+
+- <b>compTIA A+ certification</b>
+
+<h2>:memo: Education</h2>
+
+- <b>Bachelors of Computer Science from California State University, East Bay</b>
 
 <h2> 🤳 Connect with me:</h2>
 
