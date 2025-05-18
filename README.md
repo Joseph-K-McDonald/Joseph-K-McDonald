@@ -6,7 +6,7 @@
 
 <h2>:hammer: Currently Working On:</h2>
 
-- <b>compTIA A+ certification</b>
+- <b>compTIA Network+ and Security+ certification</b>
 
 <h2>:memo: Education</h2>
 
